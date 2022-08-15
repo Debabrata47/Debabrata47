@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋🏼, I'm Debabrata Mohapatra</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="200" src="https://camo.githubusercontent.com/111eda924ec4c88f17ca581016a42783d1d1691f114e36a83c067f6869c0e80e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a514e7062413236394230323354354d477243632d44512e6a706567">
+<img align="right" alt="Coding" width="150" src="https://camo.githubusercontent.com/111eda924ec4c88f17ca581016a42783d1d1691f114e36a83c067f6869c0e80e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a514e7062413236394230323354354d477243632d44512e6a706567">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata47&label=Profile%20views&color=0e75b6&style=flat" alt="debabrata47" /> </p>
