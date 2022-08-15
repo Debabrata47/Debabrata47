@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋🏼, I'm Debabrata Mohapatra</h1>
 <h3 align="center">A passionate Full Stack Web Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/1*QNpbA269B023T5MGrCc-DQ.jpeg">
+<img align="right" alt="Coding" width="400" src="C:\Users\Lenovo\Desktop">
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debabrata47&label=Profile%20views&color=0e75b6&style=flat" alt="debabrata47" /> </p>
