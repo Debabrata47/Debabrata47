@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏼, I'm Debabrata Mohapatra</h1>
-<h3 align="center">A passionate Full Stack Web Developer and Machine Learning Enthusiast from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer from India</h3>
 <img align="right" alt="Coding" width="250"
      src="https://camo.githubusercontent.com/111eda924ec4c88f17ca581016a42783d1d1691f114e36a83c067f6869c0e80e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a514e7062413236394230323354354d477243632d44512e6a706567">
 
@@ -10,11 +10,11 @@
 
 <p align="left"> <a href="https://twitter.com/debabrata_47" target="blank"><img src="https://img.shields.io/twitter/follow/debabrata_47?logo=twitter&style=for-the-badge" alt="debabrata_47" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms in Python and c++**
+- 🌱 I’m currently learning **Data Structures And Algorithms ind C++**
 
-- 👯 I’m looking to collaborate on **Machine Learning and Data Science projects releated Robotics which solve everyday problems.**
+- 👯 I’m looking to collaborate on **Web Dev projects releated Robotics which solve everyday problems.**
 
-- 💬 Ask me about **Machine Learning,React,Nodejs**
+- 💬 Ask me about **React,Nodejs**
 
 - 📫 How to reach me **debabratamohapatra47@gmail.com**
 
