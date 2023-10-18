@@ -10,9 +10,9 @@
 
 <p align="left"> <a href="https://twitter.com/debabrata_47" target="blank"><img src="https://img.shields.io/twitter/follow/debabrata_47?logo=twitter&style=for-the-badge" alt="debabrata_47" /></a> </p>
 
-- 🌱 I’m currently learning **Data Structures And Algorithms ind C++**
+- 🌱 I’m currently learning **Next.js in Frontend and Go in Backend**
 
-- 👯 I’m looking to collaborate on **Web Dev projects releated Robotics which solve everyday problems.**
+- 👯 I’m looking to collaborate on **Web Dev projects which solve everyday problems.**
 
 - 💬 Ask me about **React,Nodejs**
 
