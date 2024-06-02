@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋🏼, I'm Debabrata Mohapatra</h1>
-<h3 align="center">A passionate Full Stack Web Developer from India</h3>
+<h3 align="center">A passionate Full Stack Web Developer and DevOps Engineer from India</h3>
 <img align="right" alt="Coding" width="250"
      src="https://camo.githubusercontent.com/111eda924ec4c88f17ca581016a42783d1d1691f114e36a83c067f6869c0e80e/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313430302f312a514e7062413236394230323354354d477243632d44512e6a706567">
 
@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Next.js in Frontend and Go in Backend**
 
-- 👯 I’m looking to collaborate on **Web Dev projects which solve everyday problems.**
+- 👯 I’m looking to collaborate on **Web Dev/DevOps projects that solve everyday problems.**
 
-- 💬 Ask me about **React,Nodejs**
+- 💬 Ask me about **React, Nodejs, AWS, Kubernetes**
 
 - 📫 How to reach me **debabratamohapatra47@gmail.com**
 
